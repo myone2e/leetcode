@@ -1,2 +1,3 @@
 # leetcode
-repository for leetcode (mainly C++)
+repository for leetcode
+C++ for algorithms & Oracle for Database
