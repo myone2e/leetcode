@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-
+// nums is sorted in non-decreasing order.
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
