@@ -1,6 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
+        "*.rmd": "markdown",
         "vector": "cpp",
         "iostream": "cpp",
         "iosfwd": "cpp",
@@ -14,6 +15,7 @@
         "unordered_map": "cpp",
         "iterator": "cpp",
         "utility": "cpp",
-        "cstddef": "cpp"
+        "cstddef": "cpp",
+        "ios": "cpp"
     }
 }
